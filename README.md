@@ -1,4 +1,4 @@
-# SAFe (Scaled Agile) Certification - Leading SAFe
+# SAFe (Scaled Agile Framework) Certification - Leading SAFe
 
 ### Thriving in the digital age with business agility
 
